@@ -29,7 +29,7 @@ export const games: (GameInfo & RouteObject)[] = [
     tagLine: "Test your signs against the clock, level up and try INSANE mode",
   },
   {
-    name: "SWordle",
+    name: "Quantum Realities HangMan",
     element: <Wordle />,
     icon: <GridOnIcon />,
     path: "/swordle",

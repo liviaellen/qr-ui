@@ -43,13 +43,13 @@ export const GitHubLinks: FC<GitHubLinksProps> = ({ isOpen, onClose }) => (
         name="swordle"
         description="Read about about the project, model development and api"
         icon={<ModelTrainingIcon />}
-        url="https://github.com/cpsnowden/swordle"
+        url="https://github.com/liviaellen/qr-ui"
       />
       <GitHubLink
         name="swordle-ui"
         description="View the code for this UI, built using React!"
         icon={<WebIcon />}
-        url="https://github.com/cpsnowden/swordle-ui"
+        url="https://github.com/liviaellen/qr-ui"
       />
     </List>
   </BaseDialog>

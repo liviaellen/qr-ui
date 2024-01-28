@@ -19,7 +19,7 @@ export const RulesDialog = ({
     >
       <DialogContentText>
         Practice your ASL! Make an ASL sign when the countdown hits zero and the
-        SWordle model will give you its prediction. Check the reference at the
+        Quantum Realities model will give you its prediction. Check the reference at the
         bottom of the menu for a ASL guide.
         <br />
         <br />
